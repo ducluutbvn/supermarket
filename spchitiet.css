@@ -1,0 +1,159 @@
+/*body*/
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+a {
+	text-decoration: none;
+}
+ a:hover {
+ 	text-decoration: none;
+ }
+/*header*/
+.top-header {
+	padding: 5px 0;
+	background-color: #77ca64;
+	color: #fff;
+}
+.top-header span {
+	margin-right: 15px;
+}
+.top-header a {
+	margin-left: 15px;
+	color: #fff;
+}
+
+
+.mid-header {
+	padding: 10px 0;
+}
+.logo , .search, .wish {
+	margin: 20px 0;
+}
+
+.mid-header a {
+	color: #333;
+}
+.mid-header .icon i{
+	color: #fff;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	background-color: #77ca64;
+	margin-right: 15px;
+	border-radius: 50%
+}
+
+.bottom-header {
+	margin-bottom: 15px;
+}
+.menu, #menu-bar {
+	background-color: #333;
+	color: white;
+}
+
+#menu-bar {
+	border: none;
+	margin: 0;
+}
+
+#menu-bar ul li a {
+	color: #fff;
+	font-size: 14px;
+	font-weight: 500;
+	text-transform: uppercase;
+	display: block;
+}
+
+#menu-bar ul li a:hover {
+	background-color: #77ca64;
+	color: #fff;
+}
+
+#id-menu {
+	padding: 0;
+}
+
+.home {
+	background-color: #77ca64;
+}
+
+/*content*/ 
+.content {
+	margin-bottom: 30px;
+}
+
+.content a.trangchu {
+	color: #77ca64;
+	font-weight: 600;
+}
+
+.content a.trangchu:hover {
+	border-bottom: 1px solid red;
+}
+
+.content .sp-info h1 {
+	font-size: 30px;
+}
+
+.content .sp-info h2 {
+	color: #77ca64;
+}
+
+.content .sp-info p {
+	line-height: 25px;
+	margin-bottom: 15px;
+	text-align: justify;
+}
+
+.content .sp-info span {
+	font-size: 16px;
+	font-weight: 600;
+	margin: 15px 15px 15px 0;
+}
+
+.content .sp-info input {
+	width: 60px;
+
+}
+.content .sp-info a {
+	padding: 5px 15px; 
+	border-radius: 15px;
+	border: 1px solid gray;
+	color: #333;
+	font-size: 16px;
+}
+
+.content .sp-info a:hover {
+	background: #77ca64;
+	border: none;
+	color: #fff;
+}
+
+
+/*footer*/
+.danhsach {
+	background-color: #f2f2f2;
+	padding: 20px 0
+}
+
+.danhsach h3 {
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+.danhsach a {
+	color: gray;
+	font-size: 14px;
+}
+.danhsach img {
+	margin-top: 30px;
+}
+
+/*.footer*/
+.footer {
+	background-color: #464646;;
+	padding: 20px 0 10px 0;
+}
+.footer p {
+	color: #f2f2f2;
+}
